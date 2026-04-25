@@ -5,6 +5,6 @@ enableXsrfProtection = false
 maxUploadSize = 200
 
 [browser]
-serverAddress = "web-production-dff9d.up.railway.app"
+serverAddress = "web-production-8b804.up.railway.app"
 serverPort = 443
 gatherUsageStats = false
